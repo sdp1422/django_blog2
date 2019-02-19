@@ -1,1 +1,1 @@
-web: gunicorn blogproject.wsgi --log-file -
+web: gunicorn blogprojectpip install gunicorn.wsgi --log-file -
